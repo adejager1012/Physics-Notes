@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-15T15:53:58-04:00
+
+====== Thermodynamics ======
+Created Wednesday 15 August 2018
+
+Thermodynamics is:
+"the branch of physical science that deals with the relations between heat and other forms of energy (such as mechanical, electrical, or chemical energy), and, by extension, of the relationships between all forms of energy."
+Important Pages:
+[[Thermodynamics:Heat|Heat]]
+[[Energy]]
+[[Work]]
+

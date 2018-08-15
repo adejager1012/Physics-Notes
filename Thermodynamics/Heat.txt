@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-15T15:56:12-04:00
+
+====== Heat ======
+Created Wednesday 15 August 2018
+
+In thermodynamics, heat is energy transferred from one system to another as a result of thermal interactions.
